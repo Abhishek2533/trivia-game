@@ -1,4 +1,4 @@
-The problem Trivia game - A gamified application for SDGs solves
+Trivia game - A gamified application for SDGs solves
 Our project is helping in Bridging the Gap by:
 
 Gamified application for
